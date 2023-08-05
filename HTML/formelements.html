@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Form Elements</title>
+</head>
+<body>
+	<form>
+		<label> Enter First Name</label>
+			<input type="text" placeholder="Enter your name" autofocus><!-- holds the place--><!-- autofocus focuses the curser --><br><br>
+		<label>Enter Mobile Number </label>
+			<input type="number" required ><br><br><!-- form will not be submitted with out these box-->
+		<label>Enter Your Email-ID</label>
+			<input type="email" value="tej@gmail.com" readonly disabled><br><br><!-- value will be added in input box-- Readonly-It cant be editable--Disabled- diables the entire column in form-->
+		<label>Enter Your Password</label>
+			<input type="Password" autocomplete="off"><!-- off it will not display anu suggestions--><br><br>
+		<label>Enter Your DOB</label>
+			<input type="date"><br><br>
+		<label> Select Your Gender-</label>
+			Male<input type="radio" name="Gender">
+			Female<input type="radio" name="Gender"><br><br>
+		<label>please agree the T&C</label>	
+			<input type="checkbox"><br><br>
+		<label>Upload Files</label>
+			<input type="file">	<br><br>
+		<label>Select College</label>
+			<select>
+				<option>AEC</option>
+				<option>ACET</option>
+				<option>ACOE</option>
+			</select><br><br>
+		<label>ENter Remarks</label>
+		<textarea></textarea><br><br>
+		<input type="submit">
+		<input type="reset"><br><br>
+
+
+		tel<input type="tel" maxlength="5"><!-- restricted for the certain length(max lenght)--><br><br>
+		range<input type="range"><br><br>
+		color<input type="color"><br><br>
+		<input type="button" style="height: 30px; width: 70px;" >
+
+
+	</form>
+</body>
+</html>
