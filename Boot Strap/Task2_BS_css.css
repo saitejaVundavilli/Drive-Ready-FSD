@@ -1,0 +1,114 @@
+body{
+	background: whitesmoke;
+}
+.aa{
+	background: white;
+	width:290px;
+	height: 100px;
+	margin-left: 20px;
+}
+.b{
+	float: left;
+	font-size: 40px;
+	margin-top: 10px;
+}
+.b1{
+	float: left;
+	font-size: 40px;
+	margin-top: 10px;
+	color: lightskyblue;
+}
+.b2{
+	float: left;
+	font-size: 40px;
+	margin-top: 10px;
+	color: orange;
+}
+.b3{
+	float: left;
+	font-size: 40px;
+	margin-top: 10px;
+	color: green;
+}
+.b4{
+	float: left;
+	font-size: 40px;
+	margin-top: 10px;
+	color: red;
+}
+.c{
+	float: right;
+	font-size: 40px;
+	margin-top: 10px;
+}
+.c1{
+	float: right;
+	font-size: 40px;
+	margin-top: 10px;
+	color: red;
+}
+.c2{
+	float: right;
+	font-size: 40px;
+	margin-top: 10px;
+	color: green;
+}
+.c3{
+	float: right;
+	font-size: 40px;
+	margin-top: 10px;
+	color: orange;
+}
+.c4{
+	float: right;
+	font-size: 40px;
+	margin-top: 10px;
+	color: skyblue;
+}
+.c5{
+	float: right;
+	font-size: 40px;
+	margin-top: 10px;
+	color: skyblue;
+}
+.c6{
+	float: right;
+	font-size: 40px;
+	margin-top: 10px;
+	color: orange;
+}
+.c7{
+	float: right;
+	font-size: 40px;
+	margin-top: 10px;
+	color: green;
+}
+.c8{
+	float: right;
+	font-size: 40px;
+	margin-top: 10px;
+	color: red;
+}
+
+.aa1{
+	background: white;
+	width:290px;
+	height: 120px;
+	margin-left: 15px;
+}
+.z{
+	float: right;
+}
+.y{
+	float: left;
+}
+.d{
+		
+		width: 240px;
+		height: 6px;
+}
+.e{
+	height: 13px;
+	width: 240px;
+	margin-bottom: 10px;
+}
