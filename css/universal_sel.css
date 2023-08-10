@@ -1,0 +1,15 @@
+*{
+	font-family: cursive;
+	padding: 0px;
+	margin: 0px;
+	color: blueviolet;
+}
+div{
+	background-color: limegreen;
+	height: 500px;
+	width: 500px;
+
+}
+h3{
+	background-color: red;
+}

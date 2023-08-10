@@ -1,0 +1,36 @@
+.par{
+	font-size: 25px;
+	font-weight: bold;
+}
+.par1{
+	font-size: 20px;
+}
+.div-color{
+	background-color: lightgrey;
+	width: 1450px;
+	height: 170px;
+	padding: 25px;
+	padding-top: 9px;
+	opacity: 0.5;
+}
+.pa{
+	  font-family: "Lucida Console", "Courier New", monospace;
+	  font-size: 13px;
+}
+
+.div-style{
+	text-align: right;
+}
+.text-area{
+	height: 200px;
+	width: 150px;
+}
+.sub-txt{
+	width: 150px;
+}
+.copy-right{
+	background-color: lightgrey;
+	height: 100px;
+	width: 1475px;
+	padding: 20px;
+}

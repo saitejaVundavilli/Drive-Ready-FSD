@@ -1,0 +1,16 @@
+input[type]{
+	color: yellowgreen;
+}
+input[type="text"]{
+	color: blue;
+}
+input[type="password"]{
+	color: red;
+}
+a[href]{
+	color: green;
+}
+img[src]{
+/*	background-color: blue;*/
+border: 5px red dashed;
+}

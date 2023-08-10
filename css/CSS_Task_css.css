@@ -1,0 +1,67 @@
+.main-div{
+	height: 350px;
+	width: 800px;
+	background: whitesmoke;
+}
+.div-1{
+	height: 300px;
+	width: 200px;
+	background: white;
+	margin-top: 20px;
+	float: left;
+	margin-left:50px;
+	border-radius: 30px;
+	margin-top: 25px;
+
+}
+.div-2{
+	height: 300px;
+	width: 200px;
+	background: white;
+	margin-top: 20px;
+	float: left;
+	margin-left:40px;
+	border-radius: 30px;
+	margin-top: 25px;
+
+}
+.div-3{
+	height: 300px;
+	width: 200px;
+	background: white;
+	margin-top: 20px;
+	float: left;
+	margin-left:40px;
+	border-radius: 30px;
+	margin-top: 25px;
+
+}
+.icon-1{
+	color: green;
+	margin-top: 30px;
+	font-size: 60px;
+}
+.icon-2{
+	color: red;
+	margin-top: 30px;
+	font-size: 60px;
+}
+.icon-3{
+	color: blue;
+	margin-top: 30px;
+	font-size: 60px;
+}
+p{
+	border-bottom: 2px solid blue ;
+}
+.par{
+	font-size: 16px;
+    padding: 5px;
+}
+.butt{
+	background-color: blue; 
+	color: white; 
+	height: 35px; 
+	width: 130px; 
+    border-radius: 30px
+}

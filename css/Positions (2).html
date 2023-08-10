@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Position</title>
+	<style type="text/css">
+		/*a{
+			position: sticky;
+		}*/
+		*{
+			margin: 0px;
+			padding: 0px;
+		}
+		.a{
+			height: 300px;
+			width: 200px;
+			background: blueviolet;
+			float: left;
+			position: static; /*Default Position in cSs*/
+
+		}
+		.b{
+			height: 300px;
+			width: 200px;
+			background: violet;
+			float: left;
+			position: relative;
+			top: 30px;
+			left: 30px; /*moves w.r.t div position*/
+		}
+		.c{
+			height: 300px;
+			width: 200px;
+			background: blue;
+			float: left;
+			position: absolute;/*Moves w.r.t parent div position--here body is parent*/
+			top: 50px;
+			left: 40px;
+
+		}
+		.d{
+			height: 300px;
+			width: 200px;
+			background: lightgreen;
+			float: left;
+			position: fixed;/*fixed the position through out the website */
+			top: 10em;
+			left: 10em;
+			
+
+		}
+
+
+*/	</style>
+</head>
+<body>
+	<div class="a">
+		<h3>Static</h3>
+	</div>
+	<div class="b">
+		<h3>Relative</h3>
+	</div>
+	<div class="c">
+		<h3>Absolute</h3>
+	</div>
+	<div class="d">
+		<h3>Fixed</h3>
+	</div>
+</body>
+</html>

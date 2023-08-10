@@ -1,0 +1,234 @@
+.div-card{
+	background-image: url("https://www.ghumindiaghum.com/blog/wp-content/uploads/2022/09/travel-agencie.jpg");
+	width: 100vw;
+	height: 100vh;
+	background-size:cover ;
+}
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 60%;
+  color: darkblue;
+  font-family: cursive;
+  font-size: 55px;
+/*  transform: translate(-50%, -50%);*/
+}
+.cent {
+  position: absolute;
+  top: 45%;
+  left: 61%;
+  color: black;
+  font-family: cursive;
+  font-size: 20px;
+/*  transform: translate(-50%, -50%);*/
+}
+.but {
+  position: absolute;
+  top: 65%;
+  left: 61%;
+  background-color: royalblue;
+  height: 40px;
+  width: 70px;
+  border-radius: 15px;
+  cursor: pointer;
+/*  transform: translate(-50%, -50%);*/
+}
+
+.style-card{
+	height: 450px;
+	width: 100vw;
+	background-color: royalblue;
+	text-align: center;
+	padding: 5px;
+}
+.sl-2{
+  height: 100vh;
+  width: 100vw;
+  background-color:whitesmoke;
+}
+.styl{
+  height: 100vh;
+  width: 60vw;
+  background-color: white;
+}
+.stt{
+  height: 300px;
+  width: 100vw;
+  background-color: royalblue;
+}
+.cd{
+  height: 600px;
+  width: 100vw;
+  background-color: whitesmoke;
+}
+.sll{
+  height: 500px;
+  width: 100vw;
+  background-color: royalblue;
+}
+.sk{
+  height: 400px;
+  width: 100vw;
+  background-color: whitesmoke;
+}
+.de{
+  height: 190px;
+  width: 100vw;
+  background-color: black;
+}
+.crd2{
+  height: 275px;
+  width: 210px;
+  background-color:whitesmoke;
+  margin-left: 250px;
+  border-radius: 25px;
+  float: left;
+  opacity: 0.9;
+
+}
+.crd1{
+  height: 275px;
+  width: 210px;
+  background-color:whitesmoke;
+  margin-left: 30px;
+  border-radius: 25px;
+  float: left;
+opacity: 0.7}
+
+.par{
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+} 
+.hd{
+  font-size: 33px;
+  font-family: cursive;
+  color: white;
+} 
+.rnd{
+  border-radius: 50%;
+  float: left;
+  padding: 16px;
+}
+.crd3{
+  height: 275px;
+  width: 210px;
+  background-color:whitesmoke;
+  margin-left: 30px;
+  border-radius: 25px;
+  float: left;
+opacity: 0.9}
+.div-sec{
+  height:50vh ;
+  width: 30vw;
+  float: left;
+  text-align: center;
+}
+.div-sec2{
+  height:50vh ;
+  width: 30vw;
+  float: right;
+}
+.htt{
+  height: 75px;
+   width: 210px;
+}
+.htt2{
+  height: 200px; 
+  width: 210px;
+}
+.sh{
+  padding: 19px;
+  font-size: 33px;
+}
+.pp{
+  font-size: 25px;
+}
+.but1{
+  height: 50px;
+  width: 100px;
+  background-color: royalblue;
+  border-radius: 40px;
+  cursor: pointer;
+}
+.ddd{
+  padding: 25px;
+  border-radius: 10%;
+}
+.pp1{
+  font-size: 20px;
+  padding: 10px;
+}
+.pp2{
+  font-size: 20px;
+  font-weight: bold;
+
+
+}
+.secec{
+  font-size: 17px;
+  font-weight: bold;
+  font-family: cursive;
+}
+.imgs{
+  border-radius: 50%;
+  padding: 20px;
+  margin-left: 250px;
+}
+.bbb{
+  height:420px;
+  width:330px;
+  padding:20px;
+  border-radius: 30%;
+  margin-top: 25px;
+  
+}
+.div-cont{
+  height:400px;
+   width:270px ; 
+   background-color:white; 
+   float: left; 
+   border-radius:20px;
+    margin-left: 320px;
+    margin-top: -5px;
+}
+.div-cont2{
+  height:300px;
+   width:270px ; 
+   background-color:white; 
+   float: left; 
+   border-radius:20px;
+    margin-left: 40px;
+    margin-top: 95px;
+}
+.div-cont3{
+  height:240px;
+   width:270px ; 
+   background-color:white; 
+   float: left; 
+   border-radius:20px;
+    margin-left: 40px;
+    margin-top: 155px;
+}
+.hed{
+  font-size:45px;
+  color: orange; 
+  text-align:left;
+  padding: 10px; 
+  margin-left: 19px;
+}
+.par-sty{
+  padding:17px;
+   font-size: 20px;
+
+}
+.cont-div{
+    height: 400px;
+    width: 30vw;
+    background-color: white;
+    float: left;
+}
+.lmn{
+  padding: 10px;
+  text-align: left;
+}
